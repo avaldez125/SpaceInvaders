@@ -2,6 +2,14 @@ Andrew Valdez
 avaldez125@unm.edu
 SpaceInvaders
 
+This project was created according to the Spring 2018 CS-251L Final Project spec at the University of New Mexico.
+I spent a lot of time tweaking this game and am still somewhat proud of how it came out. Looking back, I can see 
+some obvious flaws and my coding and my art skills have improved considerably but I still think it's worthwhile to 
+show in its original form. 
+
+I had initially intended to upload this project so I could further refine it and I may or may not do that some 
+time in the future. 
+
 ======================================================================
 How to Play:
 Left and Right arrow keys: Move ship
